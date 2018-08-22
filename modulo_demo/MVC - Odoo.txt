@@ -1,0 +1,14 @@
+MVC
+
+--Modelos --- Tablas
+--Vistas  --- XML, HTML
+
+Modulo Odoo
+	* views
+	* models
+	- __init__.py
+	- __manifest__.py
+
+
+
+Controladores -- .py
