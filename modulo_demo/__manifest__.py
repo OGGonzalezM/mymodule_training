@@ -28,8 +28,9 @@
     # Views, XML, HTML
     # Datos XML, CSV
     'data': [
+        'views/persona_view.xml',
     ],
 
-    'installable':True,
-    'auto_install':False,
+    'installable': True,
+    'auto_install': False,
 }
